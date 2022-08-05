@@ -7,9 +7,9 @@
 ![](https://img.shields.io/badge/release-v1.0.0-blue)
 ![](https://img.shields.io/badge/tag-v1.0.0-blue)
 
-## _Projeto voltado a exame de aprovação, para certifiação_
+## _Project aimed at passing exam, for certification_
 
-> Essencial informar que esse projeto é voltado para estudo e geração de carteiras na blockchain testnet do Bitcoin.
+> It is essential to inform that this project is aimed at the study and generation of wallets on the Bitcoin testnet blockchain.
 
 ## Stack Used
 
