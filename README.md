@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/didimojs/generate-wallet" target="blank"><img src="https://drive.google.com/uc?export=view&id=1ZaR_eyw6KOFqdGarO1W-dIrSmVEZN8p4" width="250" alt="logo" /></a>
+  <a href="https://github.com/didimojs/generate-wallet" target="blank"><img src="https://drive.google.com/uc?export=view&id=1ZaR_eyw6KOFqdGarO1W-dIrSmVEZN8p4" width="350" alt="logo" /></a>
 </p>
 
 ![](https://img.shields.io/node/v/tiny-secp256k1)
