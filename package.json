@@ -1,0 +1,36 @@
+{
+  "name": "generate-addresses",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/server.js",
+  "author": "Tiago Ferreira Dídimo",
+  "license": "ISC",
+  "scripts": {
+    "start": "node dist/server.js",
+    "dev": "ts-node src/server.ts",
+    "build": "tsc -p tsconfig.json",
+    "nodemon": "nodemon dist/server.js",
+    "clear": "rm -Rf dist & rm -Rf node_modules & rm yarn.lock"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/didimojs/generate-addresses.git"
+  },
+  "dependencies": {
+    "bip32": "^3.0.1",
+    "bip39": "^3.0.4",
+    "bitcoinjs-lib": "^6.0.2",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "level": "^8.0.0",
+    "tiny-secp256k1": "^2.2.1"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.13",
+    "@types/level": "^6.0.1",
+    "@types/node": "^14",
+    "nodemon": "^2.0.19",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.7.4"
+  }
+}
